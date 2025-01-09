@@ -10,12 +10,12 @@ Modules:
 ## Installation
 Install with pip (define version):
 ```
-pip install git+https://github.com/solita/adenotifier.git@v0.2.2
+pip install git+https://github.com/solita/adenotifier.git@v0.2.3
 ```
 
 Include in requirements.txt (define version):
 ```
-git+https://github.com/solita/adenotifier.git@v0.2.2
+git+https://github.com/solita/adenotifier.git@v0.2.3
 ```
 
 ## Usage
