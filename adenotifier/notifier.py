@@ -246,7 +246,7 @@ def add_multiple_entries_to_manifest(entries: List[dict], source: object, base_u
         # Parse entry specific batch number from file name if configured.
         try:
             for entry_batch in entries:
-                entry_batch['batch'] = parse_batch(entry['sourceFile'], source['attributes']['batch_from_file_path_regex'])
+                entry_batch['batch'] = parse_batch(entry_batch['sourceFile'], source['attributes']['batch_from_file_path_regex'])
                 logging.info('Batch: {0}'.format(batch))
         except Exception as e:
             batch = None
