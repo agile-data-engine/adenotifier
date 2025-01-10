@@ -7,7 +7,7 @@ setuptools.setup(
     name='adenotifier',
     version='0.2.3',
     author='Taha Gad, Henri Hemminki',
-    author_email='taha.gad@solita.fi, henri.hemminki@solita.fi',
+    author_email='taha.gad@agiledataengine.com, henri.hemminki@agiledataengine.com',
     description='Python library for using ADE Notify API',
     url='https://github.com/solita/adenotifier',
     project_urls = {
