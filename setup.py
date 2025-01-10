@@ -9,9 +9,9 @@ setuptools.setup(
     author='Taha Gad, Henri Hemminki',
     author_email='taha.gad@agiledataengine.com, henri.hemminki@agiledataengine.com',
     description='Python library for using ADE Notify API',
-    url='https://github.com/solita/adenotifier',
+    url='https://github.com/agile-data-engine/adenotifier',
     project_urls = {
-        "Bug Tracker": "https://github.com/solita/adenotifier/issues"
+        "Bug Tracker": "https://github.com/agile-data-engine/adenotifier/issues"
     },
     license='MIT',
     packages=['adenotifier'],
